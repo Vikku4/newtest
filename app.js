@@ -6,3 +6,4 @@ function Worker(employee)
 let employee = 'Vikku';
 let job = Worker(employee);
 console.log(job);
+console.log("bye");
